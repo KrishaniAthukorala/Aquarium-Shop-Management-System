@@ -3,7 +3,9 @@ Aquarium Shop Management System aims to optimize operations, enhance  customer s
 Functionalities of the system
 1.	Inventory Management
 Track stock levels of fish, equipment, and supplies.
+
 Automatic updates after sales or restocking.
+
 Alerts for low stock to avoid shortages or overstocking.
 2.	Sales and Transaction Management
 Point-of-sale (POS) system for smooth and quick customer transactions.
