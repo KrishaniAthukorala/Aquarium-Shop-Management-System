@@ -22,5 +22,5 @@ Easy-to-use interface with minimal downtime.
 Reliable performance with real-time updates.
 
 
-Used Technologies
+Technologies:
 Visual Basic (VB.NET), MySQL
